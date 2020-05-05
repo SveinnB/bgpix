@@ -1,4 +1,4 @@
-# 📷 BPPix
+# 📷 BGPix
 
 Ljósmyndasíða fyrir pabba með tengingu við Prismic. Hægt er að skoða síðu [hér](https://eloquent-meninsky-cc9cb4.netlify.app)
 
@@ -21,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
